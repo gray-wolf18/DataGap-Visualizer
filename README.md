@@ -4,7 +4,9 @@
 
 **DataGap Visualizer** is a web-based tool designed to visualize and analyze missing data in datasets. By providing insights into data gaps through interactive bar charts, it aids researchers, data analysts, and enthusiasts in understanding the completeness of their data.
 
-![Demo Image of DataGap Visualizer](path_to_a_screenshot.png) 
+![image](https://github.com/gray-wolf18/DataGap-Visualizer/assets/54442811/51effd06-d88e-446b-beb0-b4e8d064549f)
+
+
 *Note: Replace `path_to_a_screenshot.png` with an actual path to a screenshot of your app for a visual demo.*
 
 ## Features:
